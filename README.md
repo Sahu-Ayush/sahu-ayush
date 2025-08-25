@@ -54,7 +54,7 @@ Currently focused on **Cloud (GCP), DevOps, GitHub Actions, Golang, and Terrafor
 
 ## ✨ Connect With Me  
 <p>
-  <a href="https://www.linkedin.com/in/ayush-sahu-devops/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/ayush-sahu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:ayush@ayushsahu.dev"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://sahu-ayush.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github" /></a>
 </p>  
