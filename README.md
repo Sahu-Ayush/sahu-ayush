@@ -159,29 +159,17 @@ flowchart LR
   Deploy --> Observe[Logs and Health Checks]
 ```
 
-## TODO
-
-- Add real links to useful repositories
-- Add 1-2 architecture diagrams for major projects
-- Publish short learning notes and POCs as repositories
-- Link this profile to more concrete project work
-
-
 ---
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahu-ayush&show_icons=true&theme=tokyonight&hide_border=true" alt="Ayush's GitHub stats" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahu-ayush&theme=tokyonight" alt="Ayush's GitHub stats" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahu-ayush&theme=tokyonight&hide_border=true" alt="GitHub streak" height="170" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahu-ayush&theme=tokyonight" alt="Top languages by repository" height="170" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahu-ayush&theme=tokyonight" alt="Top languages by commit" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahu-ayush&theme=tokyonight" alt="GitHub profile summary" />
 </p>
 
 <p align="center">
