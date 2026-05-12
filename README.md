@@ -159,6 +159,13 @@ flowchart LR
   Deploy --> Observe[Logs and Health Checks]
 ```
 
+## TODO
+
+- Add real links to useful repositories
+- Add 1-2 architecture diagrams for major projects
+- Publish short learning notes and POCs as repositories
+- Link this profile to more concrete project work
+
 ---
 ## GitHub Activity
 
