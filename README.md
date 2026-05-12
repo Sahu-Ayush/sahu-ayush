@@ -1,67 +1,152 @@
-### Hi there 👋
+<h1 align="center">Ayush Sahu</h1>
 
-<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Ayush+Sahu+👋;DevOps+%7C+Platform+Engineer+%7C+Cloud;Golang+%7C+Kubernetes+%7C+Terraform;Automating+today+for+a+better+tomorrow!" alt="Typing SVG" />
+  <strong>Cloud & DevOps Engineer | Platform Engineering</strong>
+</p>
+
+<p align="center">
+  Building reliable, highly available, and automation-friendly cloud infrastructure.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayush-sahu/">LinkedIn</a> •
+  <a href="mailto:ayush@ayushsahu.dev">Email</a>
 </p>
 
 ---
 
-# 👋 About Me  
+## About
 
-🚀 **DevOps | Platform Engineering | Cloud | Golang Enthusiast**  
+I work around cloud infrastructure, DevOps automation, and platform engineering. I enjoy building systems that make deployments smoother, infrastructure easier to manage, and services more reliable and available.
 
-I love building **scalable infrastructure**, **automation tooling**, and **developer platforms**.  
-Currently focused on **Cloud (GCP), DevOps, GitHub Actions, Golang, and Terraform**.  
-
----
-
-## 🛠️ Tech Stack & Skills  
-- **Languages**: Golang, Python, Shell Scripting 
-- **Cloud**: Google Cloud (GCP) 
-- **DevOps & Infra**: Docker, Kubernetes, Terraform, GitHub Actions, CI/CD, Observability.  
-- **Databases**: MySQL  
-- **Other Tools**: Git, Linux  
+Right now, I am focused on **GCP**, **Kubernetes**, **Terraform**, **GitHub Actions**, **Go**, and infrastructure practices around **reliability**, **high availability**, and **disaster recovery**.
 
 ---
 
-## 📌 Featured Projects  
-🔹 [**Three-tier GCP Web Service (Go + Terraform)**](#) – End-to-end deployment (manual + IaC)  
-🔹 [**Task Tracker CLI (Excel/CSV)**](#) – Jira-like daily task tracker built in Go  
+## Highlights
+
+- Cloud infrastructure on GCP with reliability and availability in mind
+- Infrastructure as Code using Terraform
+- CI/CD automation with GitHub Actions
+- Kubernetes, Docker, and cloud-native deployment patterns
+- Go-based tooling for DevOps and platform workflows
 
 ---
 
-## 📊 GitHub Stats  
+## What I Can Help With
+
+- Designing and deploying cloud infrastructure on GCP
+- Improving reliability, availability, and disaster recovery readiness
+- Writing Terraform modules and Infrastructure as Code workflows
+- Building CI/CD pipelines with GitHub Actions
+- Containerizing applications with Docker
+- Learning and applying Kubernetes deployment patterns
+- Creating small automation tools with Go, Python, and shell scripts
+
+---
+
+## Tech I Work With
+
+- **Cloud & Infrastructure:** GCP, Kubernetes, Docker, Terraform
+- **DevOps:** GitHub Actions, CI/CD, observability, Linux, Git
+- **Languages:** Go, Python, Shell scripting
+- **Databases:** MySQL
+
+---
+
+## Projects
+
+| Project | Focus | Status |
+| --- | --- | --- |
+| **Three-tier GCP Web Service** | Deploying a Go web service on GCP using manual setup and Terraform | In progress |
+
+---
+
+## Useful Repositories
+
+These are the types of repositories I like to keep visible because they show practical, hands-on work.
+
+| Repository Type | What it shows |
+| --- | --- |
+| **Cloud deployment repos** | GCP setup, service deployment, networking, IAM, and infrastructure decisions |
+| **Terraform repos** | Infrastructure as Code structure, modules, variables, outputs, and remote state usage |
+| **Reliability and DR POCs** | Backup planning, recovery workflows, availability checks, and failure scenario practice |
+| **GitHub Actions repos** | CI/CD pipelines, reusable workflows, custom actions, and automation patterns |
+| **Kubernetes POCs** | Deployments, services, ingress, configs, secrets, and debugging notes |
+| **Go automation tools** | CLI tools, task automation, file handling, and DevOps helper utilities |
+| **Learning notes** | Short notes, commands, troubleshooting steps, and topic summaries |
+
+You can also explore my public repositories here: [github.com/Sahu-Ayush?tab=repositories](https://github.com/Sahu-Ayush?tab=repositories)
+
+---
+
+## POCs & Learning Notes
+
+I use small proof-of-concepts to understand tools deeply before applying them in larger projects.
+
+| Area | What I am exploring |
+| --- | --- |
+| **GCP** | IAM, networking basics, compute services, and deployment flows |
+| **Reliability & DR** | High availability patterns, backup planning, recovery workflows, and failure testing |
+| **Terraform** | Remote state, reusable modules, variables, outputs, and environment structure |
+| **Kubernetes** | Pods, deployments, services, ingress, config maps, secrets, and troubleshooting |
+| **GitHub Actions** | Reusable workflows, custom actions, error handling, and CI/CD patterns |
+| **Go Automation** | CLI tools, file handling, APIs, and DevOps workflow automation |
+
+---
+
+## Current Focus
+
+- Building stronger fundamentals in Kubernetes networking, workloads, and deployments
+- Learning practical high availability, backup, restore, and disaster recovery patterns
+- Improving Terraform project structure for reusable infrastructure
+- Creating GitHub Actions workflows that are easier to reuse and debug
+- Practicing Go by building practical DevOps and platform tools
+
+---
+
+## How I Work
+
+- I prefer simple, repeatable automation over manual steps
+- I think about reliability, recovery, and operational clarity while designing infrastructure
+- I like documenting setup steps so projects are easier to run later
+- I try to understand the system before adding tools or abstractions
+- I care about clean workflows, useful logs, and practical troubleshooting
+
+---
+
+## Open To
+
+- Cloud Engineer and DevOps-focused opportunities
+- Collaborating on infrastructure, automation, or platform tooling projects
+- Learning from production-grade cloud-native systems
+- Contributing to projects that improve developer experience
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahu-ayush&show_icons=true&theme=tokyonight" alt="Ayush's GitHub stats" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahu-ayush&theme=tokyonight" alt="GitHub Streak" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahu-ayush&show_icons=true&theme=tokyonight&hide_border=true" alt="Ayush's GitHub stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahu-ayush&theme=tokyonight&hide_border=true" alt="GitHub streak" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahu-ayush&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahu-ayush&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
 </p>
-
----
-
-## 🌱 Currently Exploring  
-- Kubernetes
-- Golang
-- Advanced GitHub Actions (Reusable workflows, error handling, custom actions)  
-- Developer Experience & Platform Engineering concepts  
-
----
-
-## ✨ Connect With Me  
-<p>
-  <a href="https://www.linkedin.com/in/ayush-sahu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:ayush@ayushsahu.dev"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://sahu-ayush.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github" /></a>
-</p>  
-
----
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahu-ayush&label=Profile+Views&color=blue&style=flat-square" alt="profile views" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahu-ayush&theme=tokyonight" alt="GitHub profile summary" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahu-ayush&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sahu-ayush&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahu-ayush&label=Profile%20Views&color=blue&style=flat-square" alt="Profile views" />
+</p>
