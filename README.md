@@ -1,139 +1,70 @@
 <h1 align="center">Ayush Sahu</h1>
 
 <p align="center">
-  <strong>Cloud & DevOps Engineer | Platform Engineering</strong>
+  <strong>Cloud & DevOps Engineer | Platform Engineering | Reliability</strong>
 </p>
 
 <p align="center">
-  Building reliable, highly available, and automation-friendly cloud infrastructure.
+  I build reliable, automation-friendly cloud infrastructure with a focus on GCP,
+  Kubernetes, Terraform, CI/CD, and practical operational clarity.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayush-sahu/">LinkedIn</a> •
-  <a href="mailto:ayush@ayushsahu.dev">Email</a>
+  <a href="https://www.linkedin.com/in/ayush-sahu/">LinkedIn</a> |
+  <a href="mailto:ayush@ayushsahu.dev">Email</a> |
+  <a href="https://github.com/Sahu-Ayush?tab=repositories">Repositories</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahu-ayush&label=Profile%20Views&color=0E75B6&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-## About
+## About Me
 
-I work around cloud infrastructure, DevOps automation, and platform engineering. I enjoy building systems that make deployments smoother, infrastructure easier to manage, and services more reliable and available.
+I work across cloud infrastructure, DevOps automation, and platform engineering. I enjoy building systems that make deployments smoother, infrastructure easier to manage, and services more reliable in day-to-day operations.
 
-Right now, I am focused on **GCP**, **Kubernetes**, **Terraform**, **GitHub Actions**, **Go**, and infrastructure practices around **reliability**, **high availability**, and **disaster recovery**.
-
----
-
-## Highlights
-
-- Cloud infrastructure on GCP with reliability and availability in mind
-- Infrastructure as Code using Terraform
-- CI/CD automation with GitHub Actions
-- Kubernetes, Docker, and cloud-native deployment patterns
-- Go-based tooling for DevOps and platform workflows
+My current focus is on **GCP**, **Kubernetes**, **Terraform**, **GitHub Actions**, **Go**, and infrastructure practices around **reliability**, **high availability**, **backup/restore**, and **disaster recovery**.
 
 ---
 
-## What I Can Help With
+## Core Strengths
 
-- Designing and deploying cloud infrastructure on GCP
-- Improving reliability, availability, and disaster recovery readiness
-- Writing Terraform modules and Infrastructure as Code workflows
-- Building CI/CD pipelines with GitHub Actions
-- Containerizing applications with Docker
-- Learning and applying Kubernetes deployment patterns
-- Creating small automation tools with Go, Python, and shell scripts
-
----
-
-## Tech I Work With
-
-- **Cloud & Infrastructure:** GCP, Kubernetes, Docker, Terraform
-- **DevOps:** GitHub Actions, CI/CD, observability, Linux, Git
-- **Languages:** Go, Python, Shell scripting
-- **Databases:** MySQL
+| Area | What I Focus On |
+| --- | --- |
+| **Cloud Infrastructure** | GCP setup, networking basics, IAM, compute services, deployment flows, and environment design |
+| **Infrastructure as Code** | Terraform modules, variables, outputs, remote state, reusable structure, and clear documentation |
+| **CI/CD Automation** | GitHub Actions workflows, reusable pipelines, build/test/deploy flows, and debugging-friendly automation |
+| **Cloud Native Systems** | Docker, Kubernetes workloads, services, ingress, configs, secrets, and deployment patterns |
+| **Reliability Practices** | Availability checks, backup planning, recovery workflows, failure testing, and operational readiness |
+| **DevOps Tooling** | Go, Python, and shell scripts for small automation tools and platform workflows |
 
 ---
 
-## Projects
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+---
+
+## Featured Work
 
 | Project | Focus | Status |
 | --- | --- | --- |
-| **Three-tier GCP Web Service** | Deploying a Go web service on GCP using manual setup and Terraform | In progress |
-
----
-
-## Useful Repositories
-
-These are the types of repositories I like to keep visible because they show practical, hands-on work.
-
-| Repository Type | What it shows |
-| --- | --- |
-| **Cloud deployment repos** | GCP setup, service deployment, networking, IAM, and infrastructure decisions |
-| **Terraform repos** | Infrastructure as Code structure, modules, variables, outputs, and remote state usage |
-| **Reliability and DR POCs** | Backup planning, recovery workflows, availability checks, and failure scenario practice |
-| **GitHub Actions repos** | CI/CD pipelines, reusable workflows, custom actions, and automation patterns |
-| **Kubernetes POCs** | Deployments, services, ingress, configs, secrets, and debugging notes |
-| **Go automation tools** | CLI tools, task automation, file handling, and DevOps helper utilities |
-| **Learning notes** | Short notes, commands, troubleshooting steps, and topic summaries |
-
-You can also explore my public repositories here: [github.com/Sahu-Ayush?tab=repositories](https://github.com/Sahu-Ayush?tab=repositories)
-
----
-
-## POCs & Learning Notes
-
-I use small proof-of-concepts to understand tools deeply before applying them in larger projects.
-
-| Area | What I am exploring |
-| --- | --- |
-| **GCP** | IAM, networking basics, compute services, and deployment flows |
-| **Reliability & DR** | High availability patterns, backup planning, recovery workflows, and failure testing |
-| **Terraform** | Remote state, reusable modules, variables, outputs, and environment structure |
-| **Kubernetes** | Pods, deployments, services, ingress, config maps, secrets, and troubleshooting |
-| **GitHub Actions** | Reusable workflows, custom actions, error handling, and CI/CD patterns |
-| **Go Automation** | CLI tools, file handling, APIs, and DevOps workflow automation |
-
----
-
-## Current Focus
-
-- Building stronger fundamentals in Kubernetes networking, workloads, and deployments
-- Learning practical high availability, backup, restore, and disaster recovery patterns
-- Improving Terraform project structure for reusable infrastructure
-- Creating GitHub Actions workflows that are easier to reuse and debug
-- Practicing Go by building practical DevOps and platform tools
-
----
-
-## How I Work
-
-- I prefer simple, repeatable automation over manual steps
-- I think about reliability, recovery, and operational clarity while designing infrastructure
-- I like documenting setup steps so projects are easier to run later
-- I try to understand the system before adding tools or abstractions
-- I care about clean workflows, useful logs, and practical troubleshooting
-
----
-
-## Open To
-
-- Cloud Engineer and DevOps-focused opportunities
-- Collaborating on infrastructure, automation, or platform tooling projects
-- Learning from production-grade cloud-native systems
-- Contributing to projects that improve developer experience
-
----
-
-## Project Work & Notes
-
-| Area | Links |
-| --- | --- |
-| Cloud infrastructure | [GCP repositories](https://github.com/Sahu-Ayush?tab=repositories&q=gcp) |
-| Infrastructure as Code | [Terraform repositories](https://github.com/Sahu-Ayush?tab=repositories&q=terraform) |
-| Container orchestration | [Kubernetes repositories](https://github.com/Sahu-Ayush?tab=repositories&q=kubernetes) |
-| CI/CD automation | [GitHub Actions repositories](https://github.com/Sahu-Ayush?tab=repositories&q=github-actions) |
-| DevOps tooling | [Go repositories](https://github.com/Sahu-Ayush?tab=repositories&q=go) |
-| Learning notes and POCs | [Notes and POC repositories](https://github.com/Sahu-Ayush?tab=repositories&q=notes) |
+| **Three-tier GCP Web Service** | Go web service deployment on GCP with Terraform, MySQL, logging, and deployment documentation | In progress |
+| **Infrastructure & Reliability POCs** | Backup/restore flows, availability checks, Terraform structure, Kubernetes deployment patterns, and CI/CD experiments | Ongoing |
+| **DevOps Automation Tools** | Small Go, Python, and shell utilities for repeatable operations and developer workflows | Ongoing |
 
 ### Three-tier GCP Web Service
 
@@ -160,6 +91,49 @@ flowchart LR
 ```
 
 ---
+
+## Repository Map
+
+| Topic | Explore |
+| --- | --- |
+| **Cloud Infrastructure** | [GCP repositories](https://github.com/Sahu-Ayush?tab=repositories&q=gcp) |
+| **Infrastructure as Code** | [Terraform repositories](https://github.com/Sahu-Ayush?tab=repositories&q=terraform) |
+| **Container Orchestration** | [Kubernetes repositories](https://github.com/Sahu-Ayush?tab=repositories&q=kubernetes) |
+| **CI/CD Automation** | [GitHub Actions repositories](https://github.com/Sahu-Ayush?tab=repositories&q=github-actions) |
+| **DevOps Tooling** | [Go repositories](https://github.com/Sahu-Ayush?tab=repositories&q=go) |
+| **Learning Notes & POCs** | [Notes and POC repositories](https://github.com/Sahu-Ayush?tab=repositories&q=notes) |
+
+---
+
+## Current Focus
+
+- Strengthening Kubernetes networking, workloads, services, ingress, and troubleshooting fundamentals
+- Practicing high availability, backup, restore, and disaster recovery patterns through hands-on POCs
+- Improving Terraform project structure for reusable and maintainable infrastructure
+- Building GitHub Actions workflows that are easier to reuse, debug, and operate
+- Creating practical Go-based tools for DevOps and platform engineering workflows
+
+---
+
+## How I Work
+
+- I prefer simple, repeatable automation over fragile manual steps
+- I design infrastructure with reliability, recovery, and operational clarity in mind
+- I document setup steps, tradeoffs, and troubleshooting notes so projects are easier to revisit
+- I try to understand the system before adding tools, abstractions, or extra moving parts
+- I care about clean workflows, useful logs, readable code, and practical failure handling
+
+---
+
+## Open To
+
+- Cloud Engineer and DevOps-focused opportunities
+- Collaborating on infrastructure, automation, or platform tooling projects
+- Learning from production-grade cloud-native systems
+- Contributing to projects that improve developer experience and operational reliability
+
+---
+
 ## GitHub Activity
 
 <p align="center">
@@ -174,12 +148,4 @@ flowchart LR
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahu-ayush&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahu-ayush&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahu-ayush&label=Profile%20Views&color=blue&style=flat-square" alt="Profile views" />
 </p>
