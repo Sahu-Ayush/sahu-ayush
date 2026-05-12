@@ -124,19 +124,52 @@ I use small proof-of-concepts to understand tools deeply before applying them in
 
 ---
 
+## Project Work & Notes
+
+| Area | Links |
+| --- | --- |
+| Cloud infrastructure | [GCP repositories](https://github.com/Sahu-Ayush?tab=repositories&q=gcp) |
+| Infrastructure as Code | [Terraform repositories](https://github.com/Sahu-Ayush?tab=repositories&q=terraform) |
+| Container orchestration | [Kubernetes repositories](https://github.com/Sahu-Ayush?tab=repositories&q=kubernetes) |
+| CI/CD automation | [GitHub Actions repositories](https://github.com/Sahu-Ayush?tab=repositories&q=github-actions) |
+| DevOps tooling | [Go repositories](https://github.com/Sahu-Ayush?tab=repositories&q=go) |
+| Learning notes and POCs | [Notes and POC repositories](https://github.com/Sahu-Ayush?tab=repositories&q=notes) |
+
+### Three-tier GCP Web Service
+
+```mermaid
+flowchart LR
+  User[User] --> LB[Cloud Load Balancer]
+  LB --> Web[Go Web Service]
+  Web --> DB[(MySQL)]
+  Web --> Logs[Cloud Logging]
+  IaC[Terraform] --> LB
+  IaC --> Web
+  IaC --> DB
+```
+
+### CI/CD Deployment Flow
+
+```mermaid
+flowchart LR
+  Commit[Git Commit] --> Actions[GitHub Actions]
+  Actions --> Test[Build and Test]
+  Test --> Image[Container Image]
+  Image --> Deploy[Deploy to Cloud]
+  Deploy --> Observe[Logs and Health Checks]
+```
+
+---
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahu-ayush&show_icons=true&theme=tokyonight&hide_border=true" alt="Ayush's GitHub stats" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahu-ayush&theme=tokyonight" alt="Ayush's GitHub stats" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahu-ayush&theme=tokyonight&hide_border=true" alt="GitHub streak" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahu-ayush&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahu-ayush&theme=tokyonight" alt="GitHub profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahu-ayush&theme=tokyonight" alt="Top languages by repository" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahu-ayush&theme=tokyonight" alt="Top languages by commit" height="170" />
 </p>
 
 <p align="center">
